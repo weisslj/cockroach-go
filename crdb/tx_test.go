@@ -21,7 +21,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/cockroachdb/cockroach-go/testserver"
+	"github.com/weisslj/cockroach-go/testserver"
 )
 
 func TestExecuteTx(t *testing.T) {

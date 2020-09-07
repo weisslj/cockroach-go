@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/cockroach-go/testserver"
+	"github.com/weisslj/cockroach-go/testserver"
 )
 
 func TestRunServer(t *testing.T) {
